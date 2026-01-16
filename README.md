@@ -1,4 +1,4 @@
-# CTF Write-ups & Security Research
+# CTF Write-ups & AI Security Research
 
 A collection of my Capture The Flag (CTF) challenge solutions and cybersecurity research.
 
