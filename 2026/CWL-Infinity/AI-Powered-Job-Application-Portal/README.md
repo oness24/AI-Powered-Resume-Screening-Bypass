@@ -296,6 +296,8 @@ Git, Agile, Scrum, TDD, System Design
 
 **Evidence of Success:**
 1. Application status changed from "Under Review" to "Shortlisted"
+<img width="761" height="393" alt="image" src="https://github.com/user-attachments/assets/80a8cdb5-0f45-42c5-9a97-374eb4149d28" />
+
 
 
 **Why It Worked:**
