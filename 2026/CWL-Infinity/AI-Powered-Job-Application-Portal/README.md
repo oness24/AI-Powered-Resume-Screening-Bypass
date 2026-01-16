@@ -610,11 +610,13 @@ def monitor_applications():
 ## 📸 Screenshots
 
 ### Challenge Description
-![Challenge Description](./screenshots/01_challenge_description.png)
+![Challenge Description](<img width="1174" height="363" alt="image" src="https://github.com/user-attachments/assets/257c81a4-532d-4009-ba79-423b865a543a" />
+)
 *Official challenge description and learning objectives*
 
 ### Application Form
-![Application Form](./screenshots/02_application_form.png)
+![Application Form](<img width="744" height="760" alt="image" src="https://github.com/user-attachments/assets/547dc5ca-6c5e-4ce8-a01c-928ed855f7e9" />
+)
 *NexaCore job application form with required fields*
 
 ### Resume Upload
@@ -622,11 +624,13 @@ def monitor_applications():
 *Uploading the weaponized HTML resume*
 
 ### Success Message
-![Flag Captured](./screenshots/04_success_flag.png)
+![Flag Captured](<img width="670" height="49" alt="image" src="https://github.com/user-attachments/assets/c2d54ed9-6e1b-43d6-bd91-43d0917c14f4" />
+)
 *Application shortlisted - flag captured!*
 
 ### Dashboard Status
-![Shortlisted Status](./screenshots/05_shortlisted_status.png)
+![Shortlisted Status](<img width="716" height="368" alt="image" src="https://github.com/user-attachments/assets/aebf8a28-a776-4715-b1e1-5a3b6ae1259d" />
+)
 *Candidate dashboard showing elevated status*
 
 ---
