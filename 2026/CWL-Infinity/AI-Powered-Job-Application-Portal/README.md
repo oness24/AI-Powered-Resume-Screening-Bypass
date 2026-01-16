@@ -1,11 +1,13 @@
 # AI-Powered Job Application Portal - CTF Write-up
 
 ![Challenge Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Points](https://img.shields.io/badge/Points-20-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange)
 
 **Platform:** CyberWarfare Labs - Infinity Learning Platform  
 **Category:** AI Security / Prompt Injection  
 **Difficulty:** Medium  
+**Points Earned:** 20  
 **Date Completed:** January 2026  
 **Author:** Onesmus Simiyu
 
@@ -57,5 +59,23 @@ This challenge teaches participants to:
 ---
 
 ## 🔄 Attack Flow
-
-<img width="1127" height="434" alt="image" src="https://github.com/user-attachments/assets/e99b6b8e-fe55-4c94-8bdd-6190ca7c60ee" />
+┌──────────────┐
+│  Candidate   │
+│   (Attacker) │
+└──────┬───────┘
+│ Craft Malicious Resume
+▼
+┌──────────────────┐
+│ Malicious Resume │
+│ (Hidden Prompts) │
+└──────┬───────────┘
+│ Submit Application
+▼
+┌──────────────┐
+│  AI Screening│
+│    Agent     │
+└──────┬───────┘
+│
+├─── If Shortlisted ──► 🎯 FLAG CAPTURED! ✅
+│
+└─── If Rejected ──────► ↺ Iterate and Improve Payload
